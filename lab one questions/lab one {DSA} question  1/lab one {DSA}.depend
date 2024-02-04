@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707026870 source:c:\users\admin\onedrive\desktop\dsa projects\lab one {dsa}\main.c
+	<stdio.h>
+	<stdlib.h>
+
